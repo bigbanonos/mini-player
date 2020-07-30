@@ -13,7 +13,7 @@ new Vue({
           name: "Update Late",
           artist: "White Wires",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://my.pcloud.com/publink/show?code=XZekW2kZMKO53NpkidkGvCgtuQxTdBmmBFn7",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=y7xBZ6LhYWk",
           favorited: false
         },
